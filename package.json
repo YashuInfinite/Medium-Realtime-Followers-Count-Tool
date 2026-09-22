@@ -1,0 +1,26 @@
+{
+  "name": "medium-realtime-followers-count",
+  "version": "1.0.0",
+  "description": "A simple Node.js and Express tool to fetch and display the realtime follower count of a Medium profile.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "medium",
+    "medium-followers",
+    "followers-count",
+    "realtime",
+    "express",
+    "nodejs",
+    "web-tool",
+    "vercel"
+  ],
+  "author": "Yashwanth R",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "express": "^5.1.0"
+  }
+}
