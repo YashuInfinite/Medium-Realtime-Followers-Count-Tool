@@ -6,8 +6,6 @@ A simple and responsive web tool that allows you to check the follower count of 
   <img src="https://raw.githubusercontent.com/YashuInfinite/Medium-Realtime-Followers-Count-Tool/refs/heads/main/medium.png" alt="IMDb Movies & TV Shows Rating Finder" width="800" />
 </div>
 
-# Still In Progress
-
 ## Features
 
 - 🔢 Get Medium follower count
